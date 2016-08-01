@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/OneButtonCrash_Test_05.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{68490B58-ED83-2F50-83D0-A1ECFABB0D9B}") = "Jumping cube_Controller Verson.2", "Assembly-CSharp.csproj", "{81D6F25B-05DF-DE2B-EA1B-2CCF9775A382}"
+EndProject
+Project("{68490B58-ED83-2F50-83D0-A1ECFABB0D9B}") = "Jumping cube_Controller Verson.2", "Assembly-CSharp-Editor.csproj", "{C81AC0CD-2EAC-C22B-523F-734535FB2164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D6F25B-05DF-DE2B-EA1B-2CCF9775A382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D6F25B-05DF-DE2B-EA1B-2CCF9775A382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D6F25B-05DF-DE2B-EA1B-2CCF9775A382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D6F25B-05DF-DE2B-EA1B-2CCF9775A382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81AC0CD-2EAC-C22B-523F-734535FB2164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81AC0CD-2EAC-C22B-523F-734535FB2164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81AC0CD-2EAC-C22B-523F-734535FB2164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81AC0CD-2EAC-C22B-523F-734535FB2164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
